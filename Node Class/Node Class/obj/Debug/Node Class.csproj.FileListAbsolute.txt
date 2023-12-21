@@ -1,0 +1,9 @@
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\bin\Debug\Node Class.exe.config
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\bin\Debug\Node Class.exe
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\bin\Debug\Node Class.pdb
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\bin\Debug\DataStructure.dll
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debug\Node Class.csproj.AssemblyReference.cache
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debug\Node Class.csproj.CoreCompileInputs.cache
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debug\Node Class.csproj.CopyComplete
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debug\Node Class.exe
+C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debug\Node Class.pdb
