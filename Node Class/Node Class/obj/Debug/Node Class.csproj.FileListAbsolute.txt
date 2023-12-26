@@ -7,3 +7,12 @@ C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debu
 C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debug\Node Class.csproj.CopyComplete
 C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debug\Node Class.exe
 C:\Users\royda\OneDrive\Desktop\Programming\repos\Node Class\Node Class\obj\Debug\Node Class.pdb
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\bin\Debug\Node Class.exe.config
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\bin\Debug\Node Class.exe
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\bin\Debug\Node Class.pdb
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\bin\Debug\DataStructure.dll
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.csproj.CopyComplete
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.exe
+C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.pdb
