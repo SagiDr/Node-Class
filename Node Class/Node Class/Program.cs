@@ -30,8 +30,8 @@ namespace Node_Class
             //Console.WriteLine(numCount(n3, 6));
 
 
-            //Console.WriteLine("Original List:");
-            //PrintNodes(n3);
+            Console.WriteLine("Original List:");
+            PrintNodes(n3);
 
             //int numToAdd = 2;
             //addNum(n3, numToAdd);
@@ -68,7 +68,6 @@ namespace Node_Class
 
             //Console.WriteLine($"Print range from {s} to {e}:");
             //PrintRange(n5, e, s);
-
 
 
             //Node<string> n1 = new Node<string>("Cat");
