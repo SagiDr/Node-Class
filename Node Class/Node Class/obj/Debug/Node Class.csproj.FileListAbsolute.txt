@@ -16,3 +16,13 @@ C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class
 C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.csproj.CopyComplete
 C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.exe
 C:\Users\User\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.pdb
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\bin\Debug\Node Class.exe.config
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\bin\Debug\Node Class.exe
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\bin\Debug\Node Class.pdb
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\bin\Debug\DataStructure.dll
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.csproj.AssemblyReference.cache
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.csproj.SuggestedBindingRedirects.cache
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.csproj.CoreCompileInputs.cache
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.csproj.CopyComplete
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.exe
+C:\Users\sagi1\Source\Repos\Node-Class\Node Class\Node Class\obj\Debug\Node Class.pdb
